@@ -36,7 +36,7 @@ print(f"Square root of the number: {result}")
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+![Screenshot 2023-11-26 162817](https://github.com/KeerthanaaSaravanan/EX-05-Python/assets/145742596/6f61ab58-e92c-4f63-9c5d-95e244e3e63e)
 
 
 ## Result:
